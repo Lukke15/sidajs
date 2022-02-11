@@ -4,7 +4,7 @@ var imageCounter= 1;
 
 showDiv(imageCounter);
 
-function changeteam(m) {
+function changeImage(m) {
 
     showDiv(imageCounter = imageCounter + m);
 
