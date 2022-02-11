@@ -2,7 +2,7 @@
 
 var imageCounter= 1;
 
-showDiv(imageCounter);
+ShowDiv(imageCounter);
 
 function changeteam(m) {
 
