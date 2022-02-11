@@ -2,15 +2,15 @@
 
 var imageCounter= 1;
 
-showdiv(imageCounter);
+showDiv(imageCounter);
 
 function changeteam(m) {
 
-    Showdiv(imageCounter = imageCounter + m);
+    ShowDiv(imageCounter = imageCounter + m);
 
 }
 
-function Showdiv (n) {
+function ShowDiv (n) {
 
     var i;
 
