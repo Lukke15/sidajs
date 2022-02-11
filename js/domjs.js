@@ -18,7 +18,7 @@ function Showdiv (n) {
 
     if (n > imageArray.length) { 
 
-        imagecounter = 1;
+        imageCounter = 1;
 
 }
 
